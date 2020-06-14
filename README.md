@@ -11,7 +11,7 @@ Creating the following two tables for handling the customer information:
 The Login information of a customer is maintained in the **Customers** table below.
 
 | **Column&nbsp;name** | **Description** | **Field&nbsp;type** | 
-| --------------- | --------------- | -------------- | -----------------|
+| --------------- | --------------- | -------------- | 
 | Customer_ID | This is the customer identification number which is generated default in the database | Integer |
 | First_name  | The first name of the customer | Varchar | 
 | Middle_name | The middle name of the customer | Varchar | 
@@ -23,8 +23,8 @@ The Login information of a customer is maintained in the **Customers** table bel
 
 The address information of a customer is maintained in the **Customer_address** table below.
 
-| **Column&nbsp;name** | **Description** | **Field&nbsp;type** | **Field&nbsp;length** |
-| --------------- | --------------- | -------------- | -----------------|
+| **Column&nbsp;name** | **Description** | **Field&nbsp;type** | 
+| --------------- | --------------- | -------------- | 
 | Customer_ID | This is the customer identification number which is generated default in the database | Integer |
 | Address_line1  | contains the address line 1 | Varchar | 
 | Address_line2 | contains the address line 2 | Varchar | 
